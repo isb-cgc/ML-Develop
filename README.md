@@ -1,4 +1,4 @@
-# ISB-CGC ML/AI Resources
+# ISB-CGC ML/AI Resources and Methods
 ## Overview of Page Contents
 
 + [AutoML](#automl)
