@@ -10,7 +10,7 @@
 
 
 ## **AutoML** <a name="automl"></a>
-See additional AutoML information from Google: [https://cloud.google.com/automl?hl=en](https://cloud.google.com/automl?hl=en)
+
 
 ## **BigQuery ML** <a name='bqml'></a>
 BigQuery ML uses the GoogleSQL query language to create and run machine learning models that can then be stored in BigQuery datasets. This provides an excellent option for experienced BigQuery users to use their BigQuery data in advanced machine learning algorithms. A variety of built-in and external algorithms are available that cover various regression and classification techniques.
