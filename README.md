@@ -24,3 +24,5 @@ Current ISB-CGC notebooks utlizing BigQuery ML:
 [Mitelman Gene Fusions in TCGA](https://github.com/isb-cgc/ML-Develop/blob/main/notebooks/BigQueryML/Mitelman_Fusions_In_TCGA.ipynb)
 
 ## **Generating Synthetic Data** <a name="synth"></a>
+Current ISB-CGC notebooks for generating synthetic data:  
+[Generating Synthetic Gene Expression Data Using Synthetic Data Vault](https://github.com/isb-cgc/ML-Develop/blob/main/notebooks/SyntheticData/SyntheticExpressionDataSDV.ipynb)
