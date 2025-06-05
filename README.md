@@ -24,5 +24,10 @@ Current ISB-CGC notebooks utlizing BigQuery ML:
 [Mitelman Gene Fusions in TCGA](https://github.com/isb-cgc/ML-Develop/blob/main/notebooks/BigQueryML/Mitelman_Fusions_In_TCGA.ipynb)
 
 ## **Generating Synthetic Data** <a name="synth"></a>
+Machine learning algorithms typically benefit from large datasets when building models. Synthetic data generation has been used to augment existing data for machine learning experiments. Using machine learning and statistical algorithms, synthetic data generation creates new data that models both the structure and statistical nature of existing data. In addition to data augmentation when data is sparse, synthetic data can also be used for privacy applications by creating purely synthetic data.
+
+Many libraries and scratch-built methods are currently capable of generating quality synthetic data:  
+[Synthetic Data Vault](https://docs.sdv.dev/sdv)
+
 Current ISB-CGC notebooks for generating synthetic data:  
 [Generating Synthetic Gene Expression Data Using Synthetic Data Vault](https://github.com/isb-cgc/ML-Develop/blob/main/notebooks/SyntheticData/SyntheticExpressionDataSDV.ipynb)
